@@ -11,6 +11,7 @@ namespace CursoDesignPatterns
         static void Main(string[] args)
         {
             //Teste
+			//Teste Notepad ++
             Imposto iss = new ISS();
             Imposto icms = new ICMS();
             Imposto iccc = new ICCC();
